@@ -1,0 +1,5 @@
+train (t-h5ofwkvokydp09aqjqkrq9hzl) {
+  utterance ("[g:Results] (8)[v:Month]월 (3)[v:Day]일 학사일정 알려줘")
+  plan (Y2BhkCjKT87OK8rPydErTs7Iz8/RC0otLs0pKWaQw5ApLE0tqkwrzUsuyczPYxDBkHdJrGQQwxD1zc8ryWBgZmBkYAKSDEAaBCEAxAeLAgA=)
+  last-modified (1565178887353)
+}

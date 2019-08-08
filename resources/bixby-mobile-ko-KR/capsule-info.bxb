@@ -1,0 +1,13 @@
+capsule-info {
+  display-name  (학사일정 크롤링)
+  developer-name  (대성의 노예들)
+  icon-asset (/img/bixby_launcher.png)
+  description ("대성고등학교 학사일정 크롤링하는 캡슐입니다.")
+  dispatch-name (학사일정)
+  dispatch-aliases {
+    alias (크롤러)
+  }
+  search-keywords{
+    keyword (학사일정)
+  }
+}

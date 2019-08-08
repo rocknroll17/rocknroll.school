@@ -1,0 +1,5 @@
+train (t-ic1fmus4sq8ri8lrvzb9ifnqz) {
+  utterance ("[g:Results] (3)[v:Month]월 (2)[v:Day]일에 무슨 일 있어?")
+  plan (Y2BhkCjKT87OK8rPydErTs7Iz8/RC0otLs0pKWaQw5ApLE0tqkwrzUsuyczPYxDBkHdJrGQQwxD1zc8ryWBgZmBkYAKSDEAaBCEAxAeLAgA=)
+  last-modified (1565178891546)
+}

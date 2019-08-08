@@ -1,0 +1,7 @@
+structure (Results) {
+  description (행사 쿼리 결과 output)
+  property (event) {
+    type (Event)
+    min (Optional) max (Many)
+  }
+}

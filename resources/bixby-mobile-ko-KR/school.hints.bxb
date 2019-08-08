@@ -1,0 +1,7 @@
+hints {
+  uncategorized {
+    utterance (7월 4일 학사일정 알려줘)
+    utterance (3월 2일에 무슨일 있어?)
+    utterance (8월 3일에 학교에서 무슨 일정 있어?)
+  }
+}

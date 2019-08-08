@@ -1,0 +1,16 @@
+action (queryfunction) {
+  description (사용자가 원하는 날의 행사 쿼리)
+  type(Search)
+
+  collect {
+    input (day) {
+      type (Day)
+      min (Required) max (One)
+    }
+    input (month) {
+      type (Month)
+      min (Required) max (One)
+    }
+  }
+  output (Results)
+}

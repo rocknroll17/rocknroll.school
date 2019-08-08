@@ -1,0 +1,3 @@
+integer (Day) {
+  description (사용자가 원하는 날짜)
+}
